@@ -41,3 +41,4 @@ const getContent = async () => {
 export const getDb = async () => console.error('getDb not implemented');
 
 initdb();
+

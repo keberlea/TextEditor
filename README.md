@@ -2,6 +2,8 @@
 
 ![Badge](https://img.shields.io/badge/license-MIT-blue)
 
+[Deployed Heroku APP](https://texteditor-jate.herokuapp.com)
+
 ## Table of Contents
 ---
 * [Installation](#installation)

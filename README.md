@@ -31,8 +31,10 @@ Then run the following command:
 <br>
 
 ## Packages
---
+<br>
+
 General Technologies:
+
 <br>
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -45,7 +47,11 @@ General Technologies:
 
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
+<br>
+
 NPM packages:
+<br>
+
 ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 <br>

@@ -79,13 +79,30 @@ To use this app go to the link provided below. For offline use, go to the link a
 One can also clone this repository, run npm install and npm run start=dev
 
 ## Screenshots
+Heroku Deployed APP
+<br>
 
 ![Heroku Deployed App](client/src/images/herokudeployedapp.PNG)
+<br>
+Installed APP / Offline Use
+
 ![Installed JATE](client/src/images/installedversionofJATE.PNG)
+<br>
+APP Manifest
+
 ![App Manifest](client/src/images/appManifest.PNG)
-![Service Worker](client/src/images/serviceWorker.PNG)
+<br>
+Service Workers
+
+![Service Worker](client/src/images/ServiceWorkers.PNG)
+<br>
+APP Storage
+
 ![App Storage](client/src/images/AppStorage.PNG)
-![IndexedDB](client/src/images/indexedDB.PNG)
+<br>
+IndexedDB
+
+![IndexedDB](client/src/images/IndexedDBInstalled.PNG)
 
 
 <br>

@@ -19,7 +19,7 @@
 
 ## Installation
 
-`git clone` the repo to your local machine. To use this application, navigate to the Develop folder in your terminal and run the following command to install the dependencies: 
+`git clone` the repo to your local machine. To use this application, run the following command to install the dependencies: 
 
      npm install
 
